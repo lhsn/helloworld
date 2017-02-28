@@ -10,8 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+      Esta è a minha primeira modificação
+      Esta foi uma outra modificação.
     </body>
 </html>
